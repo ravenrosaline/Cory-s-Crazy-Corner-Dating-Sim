@@ -6,7 +6,7 @@ videogames, to use C#. Since Unity can use colaborate with Visual Studio, we wil
 
 This game is not meant for those to be easliy offended.
 So, if you decide to play it and get offended, it's not our fault.
-We told you :shurgs:
+We told you 💁
 
 About the Game:
 
